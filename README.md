@@ -1,5 +1,3 @@
-
-
 # Machine Learning - CS 584
 Analyze SoftMax and Sigmoid activation function in ResNet-50 model for classifying malaria in human blood cells
 
