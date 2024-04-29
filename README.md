@@ -1,7 +1,7 @@
-# Machine-Learning-CS-584
-Final Project
 
-# Machine Learning for Malaria Detection
+
+# Machine Learning - CS 584
+Analyze SoftMax and Sigmoid activation function in ResNet-50 model for classifying malaria in human blood cells
 
 ## Introduction
 This project utilizes deep learning models to identify malaria in human blood cells. It contrasts the performance of the SoftMax and Sigmoid activation functions within the ResNet-50 model.
