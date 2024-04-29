@@ -14,10 +14,10 @@ A customized dataset from Kaggle, consisting of 1000 images with an equal split 
 - Both SoftMax and Sigmoid activation functions were tested.
 - The data was split into training, validation, and test datasets.
 
-## Results
-- The Sigmoid activation function within ResNet-50 provided higher accuracy than SoftMax.
-- Data augmentation improved model performance.
-- ResNet-50 with Sigmoid activation achieved an accuracy of 91.67%.
+- ## Results
+- Implementing the Sigmoid activation function within the ResNet-50 model yielded a higher accuracy compared to the SoftMax activation function.
+- The application of data augmentation techniques resulted in enhanced performance of the model.
+- Due to the stochastic nature of the training process, the accuracy displayed by the code can vary with each execution. However, it is frequently observed that the ResNet-50 model with Sigmoid activation attains an accuracy in the vicinity of 91.67%.
 
 ## Conclusion
 The study demonstrates the effectiveness of machine learning models, particularly the use of Sigmoid activation in ResNet-50, for malaria detection.
@@ -25,7 +25,7 @@ The study demonstrates the effectiveness of machine learning models, particularl
 ## References
 The project cites various sources which include peer-reviewed articles, online databases, and other relevant research.
 
-For a detailed understanding of the methodologies, experimental setup, and results, please refer to the paper.
+For a detailed understanding of the methodologies, experimental setup, and results, please refer to the final report.
 
 
 
